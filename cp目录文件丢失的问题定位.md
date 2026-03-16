@@ -1,4 +1,3 @@
-[Linux-cp命令与JRE目录复制总结.md](https://github.com/user-attachments/files/26030563/Linux-cp.JRE.md)
 # Linux cp 命令与 JRE 目录复制总结
 
 ## 1. cp -prf 命令的问题
